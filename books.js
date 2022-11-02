@@ -93,7 +93,7 @@ function getBooks() {
       {
         id: 8,
         title: "48 Laws of Power",
-        url: "assets/book-5.jpeg",
+        url: "assets/book-4.jpeg",
         originalPrice: 38,
         salePrice: 17.95,
         rating: 4.5,
