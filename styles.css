@@ -456,6 +456,7 @@ select {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 40vh;
 }
 
 .books__loading--spinner{
